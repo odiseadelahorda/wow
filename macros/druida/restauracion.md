@@ -13,6 +13,8 @@
 ```
 
 
+---
+
 
 ## `Alivio presto` o `Alivio presto` + `Resguardo de Cenarius` ambos con overmouse
 
@@ -30,6 +32,8 @@
 > Es interesante cambiar el orden de ejecución de `Alivio presto` y `Resguardo de Cenarius` si tienes el legendario [Edraith](http://es.wowhead.com/item=137095/edraith-ataduras-de-aglaya&spec=105) para realizar un `Resguardo de Cenarius` un 120% más fuerte.
 
 
+---
+
 
 ## `Cura de la Naturaleza` con overmouse
 
@@ -41,6 +45,9 @@
 #showtooltip
 /use [@mouseover,help,nodead][help,nodead][@player] Cura de la Naturaleza
 ```
+
+
+---
 
 
 
