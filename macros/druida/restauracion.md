@@ -2,7 +2,7 @@
 
 
 
-#### `Acechar`
+## `Acechar`
 
 * Independientemente de la forma actual en la que te encuentres, quedarás en forma felina y en sigilo
 
@@ -14,7 +14,7 @@
 
 
 
-#### `Alivio presto` o `Alivio presto` + `Resguardo de Cenarius` ambos con overmouse
+## `Alivio presto` o `Alivio presto` + `Resguardo de Cenarius` ambos con overmouse
 
 * Al ubicar el ratón sobre un jugador aliado o sobre una barra de salud aliada del interfaz, ejecutará `Alivio presto` o `Resguardo de Cenarius`.
 * Al tener seleccionado un jugador aliado, ejecutará `Alivio presto` o `Resguardo de Cenarius`.
@@ -31,7 +31,7 @@
 
 
 
-#### `Cura de la Naturaleza` con overmouse
+## `Cura de la Naturaleza` con overmouse
 
 * Al ubicar el ratón sobre un jugador aliado o sobre una barra de salud aliada del interfaz, ejecutará `Cura de la Naturaleza`.
 * Al tener seleccionado un jugador aliado, ejecutará `Cura de la Naturaleza`.
@@ -44,7 +44,7 @@
 
 
 
-#### `Rejuvenecimiento` con overmouse o `Fuego solar`
+## `Rejuvenecimiento` con overmouse o `Fuego solar`
 
 * Al ubicar el ratón sobre un jugador aliado o sobre una barra de salud aliada del interfaz, ejecutará `Rejuvenecimiento`.
 * Al tener seleccionado un jugador aliado, ejecutará `Rejuvenecimiento`.
@@ -60,12 +60,3 @@
 > Con esta macro puedes sacarte todos los hechizos de daño bindeados a curas
 >
 > Es muy interesante si tienes el legendario [Promesa de Elune](http://es.wowhead.com/item=137023/promesa-de-elune-diosa-de-la-luna&spec=105) (De Equilibrio) bindearte también  `Cólera Solar` a algún hechizo (Recomiendo a `Toque de sanación` debido que llegarás a disparar alguna que otra sanación pensando que estás atacando y este hechizo es el que menos maná consume)
-
-
-
-
-
-
-
-
-
