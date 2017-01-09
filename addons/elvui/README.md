@@ -33,7 +33,7 @@ Podremos editar desde la posición de nuestra barra de salud, minimapa o barras d
   * Abrir la configuración del ElvUI: `/elvui`
   * Acceder, a través del menú lateral izquierdo a: *Perfiles*
   * Abajo del todo existen cuatro botones, presiona: *Import Profile*
-  * En la nueva ventana que se abrió, copiar el texto contenido en alguno de los perfiles de esta carpeta (Los archivos tienen extensión *.json. No os preocupéis si no os reconoce el formato vuestro ordenador, descargaros el [notepad++](https://notepad-plus-plus.org/download/v7.3.html) y abrirlo con dicho programa con la opción "Abrir con..." )
+  * En la nueva ventana que se abrió, copiar el texto contenido en alguno de los perfiles de esta carpeta
   * Presionar la opción de validación: *Import Now*
   * ¡A acostumbrarse! Te recomiendo, si has decidido probar este addon, úsalo durante una semana o dos, ya que si lo usas durante menos tiempo no serás capaz de acomodarte y la experiencia de usuario que puedas tener posiblemente será negativa. Recuerda posicionar el ratón sobre cualquier parámetro que te muestre el addon, te sorprenderás de la cantidad de información que ofrece (por ejemplo, si pones el ratón sobre tu dinero, te mostrará el dinero de todos tus personajes con los cuales hayas logeado con el ElvUI o si situas el ratón sobre el número de jugadores online de la hermandad mostrado bajo el minimapa, podrás ver el nombre de los jugadores conectados sin tener que abrir la pestaña correspondiente)
   
