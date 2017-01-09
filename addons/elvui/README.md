@@ -10,15 +10,15 @@ Podremos editar desde la posición de nuestra barra de salud, minimapa o barras d
 
 
 ![Captura de pantalla de tukui: Interfaz 1](http://www.tukui.org/storage/images/284344WoWScrnShot_030716_150527.jpg)
-> Se puede apreciar como dependiendo la clase del jugador el interfaz adapta los colores a su clase
+> Se puede apreciar como dependiendo la clase del jugador el interfaz adapta los colores de su clase
 
 
 ![Captura de pantalla de tukui: ](http://www.tukui.org/storage/images/360519WoWScrnShot_111216_143207.jpg)
-> Se puedenconseguir interfaces realmente limpias, pudiendo ocultar elementos que resulten innecesarios al jugador
+> Se pueden conseguir interfaces realmente limpias, pudiendo ocultar elementos que resulten innecesarios para el jugador
 
 
 ![Captura de pantalla de tukui: ](http://www.tukui.org/storage/images/418003WoWScrnShot_051212_231037.jpg)
-> Aquí se puede ver como semuestran las barras de salud de una raid. Es genial para healers. 
+> Aquí se puede ver como se muestran las barras de salud de una raid. Es genial para healers. 
 > 
 > Recordad que las barras de salud se pueden redimensionar tanto en horizontal como en vertical.
 
@@ -35,4 +35,6 @@ Podremos editar desde la posición de nuestra barra de salud, minimapa o barras d
   * Abajo del todo existen cuatro botones, presiona: *Import Profile*
   * En la nueva ventana que se abrió, copiar el texto contenido en alguno de los perfiles de esta carpeta (Los archivos tienen extensión *.json. No os preocupéis si no os reconoce el formato vuestro ordenador, descargaros el [notepad++](https://notepad-plus-plus.org/download/v7.3.html) y abrirlo con dicho programa con la opción "Abrir con..." )
   * Presionar la opción de validación: *Import Now*
-  * ¡A acostumbrarse! Os recomiendo, si has decidido probar este addon, úsalo durante una semana o dos, ya que si lo usas durante menos tiempo no serás capaz de acomodarte y la experiencia de usuario que puedas tener posiblemente será negativa. Recuerda posicionar el ratón sobre cualquier parámetro que te muestre el addon, te sorprenderás de la cantidad de información que ofrece (por ejemplo, si pones el ratón sobre tu dinero, te mostrará el dinero de todos tus personajes con los cuales hayas logeado con el ElvUI o si situas el ratón sobre el número de jugadores online de la hermandad mostrado bajo el minimapa, podrás ver el nombre de los jugadores conectados sin tener que abrir la pestaña correspondiente)
+  * ¡A acostumbrarse! Te recomiendo, si has decidido probar este addon, úsalo durante una semana o dos, ya que si lo usas durante menos tiempo no serás capaz de acomodarte y la experiencia de usuario que puedas tener posiblemente será negativa. Recuerda posicionar el ratón sobre cualquier parámetro que te muestre el addon, te sorprenderás de la cantidad de información que ofrece (por ejemplo, si pones el ratón sobre tu dinero, te mostrará el dinero de todos tus personajes con los cuales hayas logeado con el ElvUI o si situas el ratón sobre el número de jugadores online de la hermandad mostrado bajo el minimapa, podrás ver el nombre de los jugadores conectados sin tener que abrir la pestaña correspondiente)
+  
+  **NOTA Importante**: Recuerda que los perfiles han sido configurados para una determinada resolución y tamaño del monitor, por lo que será bastante probable que debas reorganizar un poco las interfaces importadas
