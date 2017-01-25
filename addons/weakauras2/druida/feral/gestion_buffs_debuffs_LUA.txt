@@ -1,0 +1,133 @@
+{
+    ["backdropColor"] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 0.5,
+    },
+    ["controlledChildren"] = {
+        [1] = ".Arañazo",
+        [2] = ".Furia",
+        [3] = ".Furia dis",
+        [4] = ".Arañazo dis",
+        [5] = ".Fuego lunar",
+        [6] = ".Rugido",
+        [7] = ".Rugido dis",
+        [8] = ".Fuego lunar dis",
+        [9] = ".Destripar",
+        [10] = ".Rabia",
+        [11] = ".Rabia dis",
+        [12] = ".Destripar dis",
+        [13] = "Energia",
+        [14] = ".Presteza",
+        [15] = "Combo 1",
+        [16] = "Combo 1 dis",
+        [17] = "Combo 2",
+        [18] = "Combo 2 dis",
+        [19] = "Combo 3",
+        [20] = "Combo 3 dis",
+        [21] = "Combo 4",
+        [22] = "Combo 4 dis",
+        [23] = "Combo 5",
+        [24] = "Combo 5 dis",
+        [25] = ".Presteza dis",
+        [26] = ".Sangrienta 1",
+        [27] = ".Sangrienta 2",
+        [28] = ".Presteza dis back",
+        [29] = "Container",
+        [30] = ".Furia tigre cd",
+        [31] = ".Rabia cd",
+    },
+    ["borderBackdrop"] = "Blizzard Tooltip",
+    ["disjunctive"] = "all",
+    ["border"] = false,
+    ["untrigger"] = {
+    },
+    ["regionType"] = "group",
+    ["borderSize"] = 16,
+    ["activeTriggerMode"] = -10,
+    ["actions"] = {
+        ["start"] = {
+        },
+        ["finish"] = {
+        },
+        ["init"] = {
+        },
+    },
+    ["borderOffset"] = 5,
+    ["expanded"] = false,
+    ["selfPoint"] = "BOTTOMLEFT",
+    ["id"] = "FERAL",
+    ["animation"] = {
+        ["start"] = {
+            ["duration_type"] = "seconds",
+            ["type"] = "none",
+        },
+        ["main"] = {
+            ["duration_type"] = "seconds",
+            ["type"] = "none",
+        },
+        ["finish"] = {
+            ["duration_type"] = "seconds",
+            ["type"] = "none",
+        },
+    },
+    ["frameStrata"] = 1,
+    ["borderEdge"] = "None",
+    ["borderColor"] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 0.5,
+    },
+    ["borderInset"] = 11,
+    ["numTriggers"] = 1,
+    ["yOffset"] = 0,
+    ["trigger"] = {
+        ["type"] = "aura",
+        ["spellIds"] = {
+        },
+        ["names"] = {
+        },
+        ["debuffType"] = "HELPFUL",
+        ["unit"] = "player",
+    },
+    ["anchorPoint"] = "CENTER",
+    ["load"] = {
+        ["talent"] = {
+            ["multi"] = {
+            },
+        },
+        ["spec"] = {
+            ["multi"] = {
+            },
+        },
+        ["race"] = {
+            ["multi"] = {
+            },
+        },
+        ["difficulty"] = {
+            ["multi"] = {
+            },
+        },
+        ["pvptalent"] = {
+            ["multi"] = {
+            },
+        },
+        ["role"] = {
+            ["multi"] = {
+            },
+        },
+        ["faction"] = {
+            ["multi"] = {
+            },
+        },
+        ["class"] = {
+        },
+        ["size"] = {
+            ["multi"] = {
+            },
+        },
+    },
+    ["xOffset"] = 465,
+}
