@@ -82,7 +82,7 @@
     },
     ["borderInset"] = 11,
     ["numTriggers"] = 1,
-    ["yOffset"] = 0,
+    ["yOffset"] = -264.99990844727,
     ["trigger"] = {
         ["type"] = "aura",
         ["spellIds"] = {
@@ -129,5 +129,5 @@
             },
         },
     },
-    ["xOffset"] = 465,
+    ["xOffset"] = 29.999755859375,
 }
