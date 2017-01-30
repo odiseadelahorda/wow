@@ -1,0 +1,159 @@
+{
+    ["backdropColor"] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 0.5,
+    },
+    ["controlledChildren"] = {
+        [1] = "Enrage",
+        [2] = "Heroic Leap CD",
+        [3] = "Charge CD",
+        [4] = "Bloodthirst Crit Chance",
+        [5] = "Rampage Down",
+        [6] = "Rampage",
+        [7] = "Raging Blow",
+        [8] = "Raging Blow Desat",
+        [9] = "Raging Blow Glow Condition 1",
+        [10] = "Bloodthirst",
+        [11] = "Bloodthirst Glow condition 2",
+        [12] = "Furious Slash",
+        [13] = "Wrecking Ball",
+        [14] = "GCD",
+        [15] = "Outburst Ready",
+        [16] = "Bloodbath CD",
+        [17] = "Shockwave CD",
+        [18] = "Storm Bolt CD",
+        [19] = "War Machine",
+        [20] = "Execute Range",
+        [21] = "Execute!",
+        [22] = "Whirlwind 2+Targets 2",
+        [23] = "Whirlwind 3+Targets 2",
+        [24] = "Enemies in Range WW",
+        [25] = "Meat Cleaver",
+        [26] = "AA Rage Bar",
+        [27] = "AA Rage Bar 3",
+        [28] = "AA Rage Readout 2",
+        [29] = "AA Rage Backdrop 2",
+        [30] = "Blood Fury Active3",
+        [31] = "Battle Cry Active3",
+        [32] = "Avatar ready 2",
+        [33] = "furia de odyn",
+        [34] = "Abalorio",
+        [35] = "Avatar Active Text 2",
+        [36] = "Avatar CD Readout",
+        [37] = "Furia de odyn CD",
+        [38] = "Abalorio CD",
+        [39] = "Blood Fury Active Text 2",
+        [40] = "Blood Fury CD Readout",
+        [41] = "Battle Cry Active",
+        [42] = "BC CD Readout",
+        [43] = "Rampage Glow Condition",
+        [44] = "Pummel Fury",
+        [45] = "Dragon's Roar",
+        [46] = "Dragon's Roar CD",
+        [47] = "DR Ready template",
+        [48] = "DR Ready Template 2",
+        [49] = "Odyn's Fury",
+        [50] = "OF Ready Background",
+        [51] = "Odyn's Fury Ready Background",
+    },
+    ["borderBackdrop"] = "Blizzard Tooltip",
+    ["disjunctive"] = "all",
+    ["border"] = false,
+    ["untrigger"] = {
+    },
+    ["regionType"] = "group",
+    ["borderSize"] = 16,
+    ["activeTriggerMode"] = -10,
+    ["expanded"] = true,
+    ["xOffset"] = -2,
+    ["anchorPoint"] = "CENTER",
+    ["borderOffset"] = 5,
+    ["borderColor"] = {
+        [1] = 1,
+        [2] = 1,
+        [3] = 1,
+        [4] = 0.5,
+    },
+    ["selfPoint"] = "BOTTOMLEFT",
+    ["additional_triggers"] = {
+    },
+    ["actions"] = {
+        ["start"] = {
+        },
+        ["finish"] = {
+        },
+        ["init"] = {
+        },
+    },
+    ["frameStrata"] = 1,
+    ["anchorFrameType"] = "SCREEN",
+    ["trigger"] = {
+        ["unit"] = "player",
+        ["type"] = "aura",
+        ["spellIds"] = {
+        },
+        ["subeventSuffix"] = "_CAST_START",
+        ["debuffType"] = "HELPFUL",
+        ["names"] = {
+        },
+        ["event"] = "Health",
+        ["subeventPrefix"] = "SPELL",
+    },
+    ["borderInset"] = 11,
+    ["numTriggers"] = 1,
+    ["animation"] = {
+        ["start"] = {
+            ["type"] = "none",
+            ["duration_type"] = "seconds",
+        },
+        ["main"] = {
+            ["type"] = "none",
+            ["duration_type"] = "seconds",
+        },
+        ["finish"] = {
+            ["type"] = "none",
+            ["duration_type"] = "seconds",
+        },
+    },
+    ["id"] = "Fury",
+    ["yOffset"] = 98.000030517578,
+    ["load"] = {
+        ["talent"] = {
+            ["multi"] = {
+            },
+        },
+        ["class"] = {
+        },
+        ["difficulty"] = {
+            ["multi"] = {
+            },
+        },
+        ["role"] = {
+            ["multi"] = {
+            },
+        },
+        ["pvptalent"] = {
+            ["multi"] = {
+            },
+        },
+        ["race"] = {
+            ["multi"] = {
+            },
+        },
+        ["spec"] = {
+            ["multi"] = {
+            },
+        },
+        ["faction"] = {
+            ["multi"] = {
+            },
+        },
+        ["size"] = {
+            ["multi"] = {
+            },
+        },
+    },
+    ["borderEdge"] = "None",
+}
