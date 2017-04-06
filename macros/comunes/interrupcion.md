@@ -10,7 +10,7 @@
 ```
 #showtooltip
 /use [@focus,exists,nodead][] INTERRUPCION
-/run local m, _, u = "Corto en %s", SecureCmdOptionParse"[@focus]" if u then SendChatMessage(m:format(UnitName(u) or "Corto en %t")) end
+/run local m, _, u = "Corto en %s", SecureCmdOptionParse"[@focus]" if u then SendChatMessage(m:format(UnitName(u) or "%t")) end
 ```
 
 > Es necesario reemplazar la cadena de texto "INTERRUPCION" por el nombre del hechizo que realice el corte para que la macro funcione. Por ejemplo, Testazo, Zurrar, etc.
